@@ -1,0 +1,10 @@
+### Folders ###
+
+# Node
+/node_modules
+
+
+### Files ###
+
+# Security
+.env
